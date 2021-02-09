@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "coU6yhthF6a4sqByZQaX5CAiBSOaGrt3+H/zQ8TYSsm3IpvBW5NIcOgK79ydyyyQqKsWwKfgHqAFy5EMWM9NrA==",
+  "success": true,
+  "projectFilePath": "C:\\NetCoreOauthGithub\\NetCoreOauthGithub\\NetCoreOauthGithub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\newtonsoft.json\\13.0.1-beta1\\newtonsoft.json.13.0.1-beta1.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\octokit\\0.48.0\\octokit.0.48.0.nupkg.sha512"
+  ],
+  "logs": []
+}
